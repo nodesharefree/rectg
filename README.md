@@ -1,9 +1,27 @@
 # 【热门推荐】5000+ 优质 Telegram 群组、频道和机器人，精心筛选，助您迅速找到最佳选择！
 
+  高速机场推荐1
 
+[【快猫】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+
+季付送小火箭，流量多，优惠多
+
+而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+注册地址：[【快猫官网（点击注册）】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
+
+#  高速机场推荐2
+
+[【FCCloud】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+
+FCCloud全球节点，解锁流媒体GPT，平民价格
+
+注册地址：[【FCCloud（点击注册）】](https://invite.fastconnect.cc/#/register?code=9BV1HHRM)
+
+所有免费clash节点都爬取自网络，请勿用于非法用途 。电报地址：<a href="https://t.me/+_gkN4gmsOWFjZmZl" target="_blank">免费clash节点每日更新 – Telegram</a>
 
 > **Note**
-> 声明：本项目的所有内容均来源于网络，仅供学习和技术研究使用。
+> 声明：本项目的所有内容均来源于网络，仅供学习和技术研究使用。.
 
 
 
@@ -12,8 +30,16 @@
 
 
 
-> GitHub 项目地址直达
-> [https://github.com/jackhawks/rectg](https://github.com/jackhawks/rectg)
+
+
+
+| 名称                                                         | 简介                                                         | 人数   | 类型   |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :----- |
+| [极搜](https://t.me/jisou?start=a_6113195484)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | - | 搜索机器人   |
+| [SOSO搜搜](https://t.me/soso?start=a_6113195484) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 搜搜更懂你。 | - | 搜索机器人   |
+
+
+
 
 
 
